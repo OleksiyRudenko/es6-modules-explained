@@ -39,7 +39,7 @@ If any path leads to a directory then `index.js` is implied.
 
 ### Import named exports
 
-Check [import-named-exports.js](./src/import-named-exports.js) and
+Check [src/import-named-exports.js](./src/import-named-exports.js) and
 files in [src/math/](./src/math/)
 to learn
 - how to export named entities
@@ -54,8 +54,8 @@ Note that exportables are:
 
 ### Import defaults
 
-Check [import-named-exports.js](./src/import-named-exports.js) and
-files in [src/math/](./src/math/)
+Check [src/import-defaults.js](./src/import-defaults.js) and
+files in [src/ModuleA/](./src/ModuleA/)
 to learn
 - how to export unanimous (default) entities
 - how to import unanimous entities
