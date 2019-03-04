@@ -38,3 +38,14 @@ Note that exportables are:
 - variables defined with `var` or `let`
 - functions
 - classes (these are syntactic sugar for constructor functions, you know)
+
+### Import defaults
+
+Check [import-named-exports.js](./src/import-named-exports.js) and
+files in [src/math/](./src/math/)
+to learn
+- how to export unanimous (default) entities
+- how to import unanimous entities
+- how to re-export unanimous entities
+
+A single default per module can be exported.
