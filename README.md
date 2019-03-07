@@ -5,7 +5,7 @@ How es6 modules export/import mechanics works?
 This repo offers a couple of the most common use cases
 explained.
 
-Hopefully, in the end you understand the topic better
+In the end you will understand the topic better
 so you will be able to manage modules or rather scopes
 with more confidence.
 
