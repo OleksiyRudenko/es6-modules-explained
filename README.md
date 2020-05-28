@@ -57,9 +57,9 @@ Note that exportables are:
 Check [src/import-defaults.js](./src/import-defaults.js) and
 files in [src/ModuleA/](./src/ModuleA/)
 to learn
-- how to export unanimous (default) entities
-- how to import unanimous entities
-- how to re-export unanimous entities
+- how to export anonymous (default) entities
+- how to import anonymous entities
+- how to re-export anonymous entities
 
 A single default per module can be exported.
 
